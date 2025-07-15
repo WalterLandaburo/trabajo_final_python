@@ -1,7 +1,7 @@
 
 trabajo_final_python.py
 
-Autor: Landaburo, Walter Nahuel (desarrollador autodidacta).
+Autor: Landaburo, Walter Nahuel.
 Fecha de creación: 2025 - 07 - 14.
 
 Descripción:
